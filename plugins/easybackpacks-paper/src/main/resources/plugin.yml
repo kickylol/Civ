@@ -1,0 +1,5 @@
+name: EasyBackpacks
+version: ${version}
+main: com.kicky.easybackpacks.EasyBackpacks
+api-version: 1.21.1
+depend: [CivModCore]

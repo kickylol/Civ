@@ -11,6 +11,7 @@ dependencies {
     paperPlugin(project(path = ":plugins:civmodcore-paper", configuration = "shadow"))
     paperPlugin(project(path = ":plugins:combattagplus-paper"))
     paperPlugin(project(path = ":plugins:donum-paper"))
+    paperPlugin(project(path = ":plugins:easybackpacks-paper"))
     paperPlugin(project(path = ":plugins:essenceglue-paper"))
     paperPlugin(project(path = ":plugins:exilepearl-paper"))
     paperPlugin(project(path = ":plugins:factorymod-paper"))
